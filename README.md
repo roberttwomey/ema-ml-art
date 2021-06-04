@@ -1,4 +1,4 @@
-# ECE 188: Machine Learning for the Arts - Fall 2019
+# EMAR 349: Machine Learning for the Arts - Fall 2021
 
 [Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
