@@ -325,8 +325,8 @@ _Recognition:_
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
 - **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
-(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
-<!-- - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
+<!--(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+- **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
 - **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
 -->
