@@ -1,9 +1,10 @@
 # EMAR 349: Machine Learning for the Arts - Fall 2021
 
-[Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities)
+[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
 ![Image](ml_art2019.png)
 
+# Description
 
 ## Course Description
 
@@ -38,15 +39,6 @@ creative work employing ML and generative art techniques.
 - Use online cloud-computing platforms for ML and generative arts processes.
 
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
-
-# Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
-- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
-(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
-<!-- - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
-- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
--->
 
 # Schedule
 (Subject to Change-Always check back for most up to date information)
@@ -332,6 +324,16 @@ _Recognition:_
 
 -->
 
+# Resources
+- **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
+- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
+(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+<!-- - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
+- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
+- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
+-->
+
+
 # Grading
 
 ## Graded activities
@@ -497,3 +499,6 @@ https://classroom.github.com/g/lGEIfW-a
 - An extended project report (4 pages): see google doc link in repository
 -->
 
+# References
+
+- [UCSD ECE188 ML for the Arts Fall 2019](https://roberttwomey.github.io/ucsd-ml-art/)
