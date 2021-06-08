@@ -7,24 +7,40 @@
 
 ## Course Description
 
-This course explores the vital new domain of Machine Learning (ML) for the arts. Though born out of computer science research, contemporary ML techniques are reimagined through creative application to diverse tasks such as style transfer, generative portraiture, music synthesis, and textual chatbots and agents. Through direct, hands-on experience with state of the art ML tools, students will develop their skills in this nascent area and form critical perspectives on the strengths and limitations of current approaches. 
+This course explores the vital new domain of Machine Learning (ML) for the arts. Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches.
 
-As ML permeates multiple aspects of culture, industry, and scholarship, it is essential both to train the next generation of ML-literate artists and engineers, and to equip them with critical  tools to evaluate these new techniques. How do computational tools augment, complicate, or supercede human creative endeavor? What new approaches to artistic production are possible with the advent of affordable graphics hardware and ML software?
+As ML permeates multiple aspects of culture, industry, and scholarship, it is essential to train the next generation of ML-literate artists and engineers and equip them with critical tools to evaluate these new techniques. How do computational tools augment, complicate, or supersede human creative endeavor? What new approaches to creative production are possible with the advent of affordable graphics hardware and ML software?
 
-This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows, jupyter notebooks, and kubernetes containers. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.  
+This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.
 
-**Prequisites:** ECE16, ECE143, or equivalent course on Python.
+## Course objectives
+- Experiential Learning
+- Critical thinking and making
+- Train and deploy Neural Networks (NN) and Machine Learning (ML) models
+- Exposure to contemporary Machine Learning and Artificial Intelligence technologies.
+- Exposure to contemporary generative arts projects and practitioners.
+- Think critically about generative arts processes
+
+A student who successfully completes this course will:
+- Be able to understand and critique contemporary Machine Learning (ML), Artificial Intelligence (AI),
+and deep learning technologies and their consequences.
+- Demonstrate a satisfactory ability to knowledgably critique and engage in a discussion about
+creative work employing ML and generative art techniques.
+   
+- Be able to manage the basics of version control and software project management.
+- Use online cloud-computing platforms for ML and generative arts processes.
+
+**Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Lecture:** MW 9:30-11:00pm
-- **Lab:** MW 11:00-12:30pm
-- **Location:** EBU1 2315
-- **Office Hours:** Friday 10am-noon, Atkinson 1611
+- **Lecture:** W 8:30-11:30pm
+- **Location:** CEMA
+- **Office Hours:** TBD, zoom and in person
 
 # Resources
-* **Discussion:** we will use slack for discussion [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup) (join with your @ucsd.edu or @eng.ucsd.edu account)
+<!--* **Discussion:** we will use slack for discussion [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup) (join with your @ucsd.edu or @eng.ucsd.edu account)
 
 * **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
 
@@ -33,6 +49,8 @@ This project-based course will be conducted primarily in python using free, open
 * **Canvas:** this is where I will post your grades: [https://canvas.ucsd.edu/courses/5343](https://canvas.ucsd.edu/courses/5343)
 
 * **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+
+-->
 
 # Policies
 
@@ -61,6 +79,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 # Schedule
 
+<!--
 ## Introduction to Art and ML (Week 1)
 **Day 1: Course and Syllabus** 9/29
 - Lecture: ([pdf](https://drive.google.com/open?id=1_RhMhnznkVwYLGB0ZzACeH5U0yR4hOgg))
@@ -381,3 +400,4 @@ We are committed to fostering a learning environment for this course that suppor
 Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
 
 We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
+-->
