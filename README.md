@@ -325,10 +325,10 @@ _Recognition:_
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
 - **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
-<!--(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+<!--
 - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
+- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
 -->
 
 
@@ -489,14 +489,9 @@ PROJECT DUE 12/11, 8-11am. Location TBD.
 REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
 
 For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: [
-https://classroom.github.com/g/lGEIfW-a
-](
-https://classroom.github.com/g/lGEIfW-a
-)
+- Project repository as usual through github classroom: [https://classroom.github.com/g/lGEIfW-a](https://classroom.github.com/g/lGEIfW-a)
 - An extended project report (4 pages): see google doc link in repository
 -->
 
 # References
-
-- [UCSD ECE188 ML for the Arts Fall 2019](https://roberttwomey.github.io/ucsd-ml-art/)
+- Past courses: [UCSD ECE188 ML for the Arts Fall 2019](https://roberttwomey.github.io/ucsd-ml-art/)
