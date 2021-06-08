@@ -494,4 +494,4 @@ For the final project you will need to submit two things:
 -->
 
 # References
-- Past courses: [UCSD ECE188 ML for the Arts Fall 2019](https://roberttwomey.github.io/ucsd-ml-art/)
+- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)
