@@ -95,41 +95,27 @@ At the end of the semester, you will propose and create a self-directed ML for t
 *Participation
 We will have a number of avenues for course participation, graded on completion. These include regular course readings and responses, finding and sharing resources relevant to course topics on class discussion platforms, and providing peer feedback on classmates’ work.
 
-## Late work policy
-An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
-
-## Grading Scale
-A+ = 97-100 A = 93-96 A- = 90-92
-B+ = 87-89 B = 83-86 B- = 80-82
-C+ = 77-79 C = 73-76 C- = 70-72
-D+ = 67-69 D = 63-66 D- = 60-62
-F =below 60%
-
-Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
-
-A – Excellent
-Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
-
-B – Good
-Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
-
-C – Satisfactory
-Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
-
-D – Unsatisfactory
-Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
-
-F—Failing
-Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
-
-## Academic Honesty Policy
-
-Academic dishonesty will not be tolerated in this course. Any instances will result in an automatic grade of F in the course and possible disciplinary action under the Student Code of Conduct (https://studentconduct.unl.edu/student-code-conduct). For information on the University’s policy on academic dishonesty, please refer to the current Undergraduate Bulletin (https://registrar.unl.edu/academic-honesty).
-
-We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
-
-
 # Schedule
+(Subject to Change-Always check back for most up to date information)
+
+| Week | Topic |
+|------|-------|
+| 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
+| 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
+| 3 | Text Generation II: Transformers, Fine-Tuning, Case Study: GPT-2 - Fine-tuning exercise - Due: Project 1 Proposal |
+| 4 | Chatbots, Interactive Text, Time Series in ML. - Interactive text exercise |
+| 5 | Time II: Autoencoders, Embeddings, Sketch-RNN - Due: Project 1 - Sketch-RNN exercise |
+| 6 | Intro to Generative Audio. - Generative Networks for Music MIDI RNN Exercise - Assign Project 2 |
+| 7 | Audio II: Music transformers. Speech generation. - Speech generation exercise - Due: Project 2 Proposal |
+| 8 | Audio III: Speech Recognition - Speech interaction exercise |
+| 9 | Visual Processing: CNNs. Style Transfer and Deep Dream - Style transfer/deep dream exercise - Due: Project 2 |
+| 10 | GANs: Generative Adversarial Networks - GAN exercise - Assign Project 3 |
+| 11 | Visual II: Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
+| 12 | Text and Image : Image Captioning, transformers and GANs - Text and image exercise (captioning, CLIP ,and DALL-E) - Due: Final Project Proposal |
+| 13 | ML and Video - Video processing exercise - Due: Project 3 |
+| 14 | Platforms and Applications of ML and the Arts - Final project work time |
+| 15 | Workshopping Final Presentations - Final project work time |
+| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
 
 <!--
 ## Introduction to Art and ML (Week 1)
@@ -427,6 +413,42 @@ https://classroom.github.com/g/lGEIfW-a
 )
 - An extended project report (4 pages): see google doc link in repository
 
+
+## Late work policy
+An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
+
+## Grading Scale
+A+ = 97-100 A = 93-96 A- = 90-92
+B+ = 87-89 B = 83-86 B- = 80-82
+C+ = 77-79 C = 73-76 C- = 70-72
+D+ = 67-69 D = 63-66 D- = 60-62
+F =below 60%
+
+Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
+
+A – Excellent
+Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
+
+B – Good
+Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
+
+C – Satisfactory
+Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
+
+D – Unsatisfactory
+Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
+
+F—Failing
+Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
+
+## Academic Honesty Policy
+
+Academic dishonesty will not be tolerated in this course. Any instances will result in an automatic grade of F in the course and possible disciplinary action under the Student Code of Conduct (https://studentconduct.unl.edu/student-code-conduct). For information on the University’s policy on academic dishonesty, please refer to the current Undergraduate Bulletin (https://registrar.unl.edu/academic-honesty).
+
+We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
+
+
+<!--
 # Addenda
 
 ## Enrollment Fall 2019
