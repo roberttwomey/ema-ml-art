@@ -6,8 +6,6 @@
 
 # Description
 
-## Course Description
-
 This course explores the vital new domain of Machine Learning (ML) for the arts. Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches.
 
 As ML permeates multiple aspects of culture, industry, and scholarship, it is essential to train the next generation of ML-literate artists and engineers and equip them with critical tools to evaluate these new techniques. How do computational tools augment, complicate, or supersede human creative endeavor? What new approaches to creative production are possible with the advent of affordable graphics hardware and ML software?
