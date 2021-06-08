@@ -18,7 +18,7 @@ This project-based course will be conducted primarily in python using free, open
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Class:** W 8:30-11:30pm
+- **Class:** W 8:30-11:20am
 - **Location:** CEMA
 - **Office Hours:** TBD, zoom and in person
 
