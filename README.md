@@ -13,6 +13,14 @@ As ML permeates multiple aspects of culture, industry, and scholarship, it is es
 
 This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.
 
+
+## Details
+
+- **Instructor:** Dr. Robert Twomey
+- **Class:** W 8:30-11:30pm
+- **Location:** CEMA
+- **Office Hours:** TBD, zoom and in person
+
 ## Course objectives
 - Experiential Learning
 - Critical thinking and making
@@ -26,48 +34,52 @@ A student who successfully completes this course will:
 and deep learning technologies and their consequences.
 - Demonstrate a satisfactory ability to knowledgably critique and engage in a discussion about
 creative work employing ML and generative art techniques.
-   
 - Be able to manage the basics of version control and software project management.
 - Use online cloud-computing platforms for ML and generative arts processes.
 
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
-## Details
-
-- **Instructor:** Dr. Robert Twomey
-- **Lecture:** W 8:30-11:30pm
-- **Location:** CEMA
-- **Office Hours:** TBD, zoom and in person
-
 # Resources
-<!--* **Discussion:** we will use slack for discussion [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup) (join with your @ucsd.edu or @eng.ucsd.edu account)
-
-* **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
-
-* **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-
-* **Canvas:** this is where I will post your grades: [https://canvas.ucsd.edu/courses/5343](https://canvas.ucsd.edu/courses/5343)
-
-* **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
-
+- **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
+- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
+(https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+<!-- - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
+- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
+- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
 -->
 
 # Policies
 
-## Grading
-* Projects - You will do three projects at 20% each. 
+## Attendance
+On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+
+Please also note the JCSTF attendance policy:
+- 4.7 Attendance Policy
+- 4.7.1 After a student misses an equivalent of one week’s worth of classes, each subsequent missed
+class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).
+- 4.7.2 Students may be granted an excused absence at the instructor’s discretion.
+- 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
+- 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
+- 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
+
+## Class Participation
+Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
+ 
+## Graded activities
+- 20% Weekly Exercises – approximately 12 exercises 
+- 45% Projects – You will do three projects at 15% each*
   * Code, Documentation, and Results must be submitted for credit.
-* Final Project - 30%
-  * Code, Documentation
-  * Poster (poster talk)
-  * Exhibition 
-* Participation - 10%
+- 25% Final Project
+  * Code
+  * Documentation
+  * Presentation
+- 10% Participation
   * Finding and sharing resources on our course discussion. 
   * Small assignments/tasks as they arise, graded on completion.
   * Readings.
   * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 
-Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). I will share a rubric with the first project assignment.
+*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
 
 ## Group Work
 
