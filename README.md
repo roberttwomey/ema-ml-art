@@ -1,6 +1,6 @@
 # EMAR 349: Machine Learning for the Arts - Fall 2021
 
-[Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
+[Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ![Image](ml_art2019.png)
 
@@ -47,53 +47,6 @@ creative work employing ML and generative art techniques.
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
 - **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019]
 -->
-
-# Policies
-
-## Attendance
-On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
-
-Please also note the JCSTF attendance policy:
-- 4.7 Attendance Policy
-- 4.7.1 After a student misses an equivalent of one week’s worth of classes, each subsequent missed
-class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).
-- 4.7.2 Students may be granted an excused absence at the instructor’s discretion.
-- 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
-- 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
-- 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
-
-## Class Participation
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
- 
-## Graded activities
-- 20% Weekly Exercises – approximately 12 exercises 
-- 45% Projects – You will do three projects at 15% each*
-  * Code, Documentation, and Results must be submitted for credit.
-- 25% Final Project
-  * Code
-  * Documentation
-  * Presentation
-- 10% Participation
-  * Finding and sharing resources on our course discussion. 
-  * Small assignments/tasks as they arise, graded on completion.
-  * Readings.
-  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
-
-*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
-
-## Description of Assignments and Exams
-
-*Weekly Exercises*
-We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
-
-*Projects*
-We will have three projects over the semester (at 15% each), covering three kinds of generative media: Text, Sound, and Image. Each project will be hosted on a github repository documenting project following a uniform template. This includes a statement of concept, source code, links to data resources, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and github respositories will be submitted for grading.
-
-*Final Project, Documentation, and Presentation*
-At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
-
-*Participation
-We will have a number of avenues for course participation, graded on completion. These include regular course readings and responses, finding and sharing resources relevant to course topics on class discussion platforms, and providing peer feedback on classmates’ work.
 
 # Schedule
 (Subject to Change-Always check back for most up to date information)
@@ -412,6 +365,57 @@ https://classroom.github.com/g/lGEIfW-a
 https://classroom.github.com/g/lGEIfW-a
 )
 - An extended project report (4 pages): see google doc link in repository
+-->
+
+# Grading
+ 
+## Graded activities
+- 20% Weekly Exercises – approximately 12 exercises 
+- 45% Projects – You will do three projects at 15% each*
+  * Code, Documentation, and Results must be submitted for credit.
+- 25% Final Project
+  * Code
+  * Documentation
+  * Presentation
+- 10% Participation
+  * Finding and sharing resources on our course discussion. 
+  * Small assignments/tasks as they arise, graded on completion.
+  * Readings.
+  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
+
+*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
+
+## Description of Assignments and Exams
+
+__*Weekly Exercises*__
+We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
+
+__*Projects*__
+We will have three projects over the semester (at 15% each), covering three kinds of generative media: Text, Sound, and Image. Each project will be hosted on a github repository documenting project following a uniform template. This includes a statement of concept, source code, links to data resources, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and github respositories will be submitted for grading.
+
+__*Final Project, Documentation, and Presentation*__
+At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
+
+__*Participation*__
+We will have a number of avenues for course participation, graded on completion. These include regular course readings and responses, finding and sharing resources relevant to course topics on class discussion platforms, and providing peer feedback on classmates’ work.
+
+
+# Policies
+
+## Attendance
+On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+
+Please also note the JCSTF attendance policy:
+- 4.7 Attendance Policy
+- 4.7.1 After a student misses an equivalent of one week’s worth of classes, each subsequent missed
+class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).
+- 4.7.2 Students may be granted an excused absence at the instructor’s discretion.
+- 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
+- 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
+- 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
+
+## Class Participation
+Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
 
 
 ## Late work policy
