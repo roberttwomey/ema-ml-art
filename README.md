@@ -128,13 +128,6 @@ Academic dishonesty will not be tolerated in this course. Any instances will res
 
 We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
-## Group Work
-
-This course will be a mix of group work and individual work depending on each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. **Group work is encouraged, but not required.**
-
-## Project Critiques and Group Discussions
-
-We will have critique/group discussion for each of the projects this quarter.
 
 # Schedule
 
@@ -449,14 +442,34 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 - quick instructions [https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese)
 - detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
 - making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
-
-## Accomodations
-The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
-
-## Diversity and Inclusion
-We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
-
-Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
-
-We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
 -->
+
+## Accommodations for Students with Disabilities
+Students with disabilities are encouraged to contact their instructor for a confidential discussion of their individual needs for academic accommodation based on a current accommodation plan. It is the policy of the University to provide flexible and individualized accommodations to students with documented disabilities including those students with mental health disabilities such as depression and anxiety. To receive reasonable accommodation, students must be registered with the Services for Students with Disabilities (SSD) office, 232 Canfield Administration, 402-472-3787 V/TTY.
+
+## Mental Health and Wellbeing Resources
+UNL offers a variety of options to students to aid them in dealing with stress and adversity. Counseling and Psychological & Services (CAPS) is a multidisciplinary team of psychologists and counselors that works collaboratively with Nebraska students to help them explore their feelings and thoughts and learn helpful ways to improve their mental, psychological and emotional well- being when issues arise. CAPS can be reached by calling 402-472-7450. Big Red Resilience & Well- Being provides one-on-one well-being coaching to any student who wants to enhance their well- being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached by calling 402-472-8770.
+
+## COVID-19 face covering policy
+Required Use of Face Coverings for On-Campus Shared Learning Environments*
+
+As of July 17, 2020 and until further notice, all University of Nebraska–Lincoln (UNL) faculty, staff, students, and visitors (including contractors, service providers, and others) are required to use a facial covering at all times when indoors except under specific conditions outlined in the COVID-19 face covering policy found at: https://covid19.unl.edu/face-covering-policy
+
+This statement is meant to clarify classroom policies for face coverings:
+
+To protect the health and well-being of the University and wider community, UNL has implemented a policy requiring all people, including students, faculty, and staff, to wear a face covering that covers the mouth and nose while on campus. The classroom is a community, and as a community, we seek to maintain the health and safety of all members by wearing face coverings when in the classroom. Failure to comply with this policy is interpreted as a disruption of the classroom and may be a violation of UNL’s Student Code of Conduct.
+
+Individuals who have health or medical reasons for not wearing face coverings should work with the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff Disability Services (for faculty and staff) to establish accommodations to address the health concern. Students who prefer not to wear a face covering should work with their advisor to arrange a fully online course schedule that does not require their presence on campus.
+
+As of January 12, 2021 (https://covid19.unl.edu/spring-testing) and until further notice, students, faculty, and staff are required to get a COVID-19 test during the week of January 19 – 24 and at least one additional, follow-up test around 10 days later. Proof of a negative test result (via the Safer Communities smart phone app or an official, printed pass from the Safer Communities web client) is required to gain entry to the Carson Center building. Students are also required to adhere to an updated Cornhusker Commitment (https://covid19.unl.edu/we-are-cornhusker-committed) for the Spring 2021 semester.
+
+Students in the classroom:
+1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
+2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
+3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
+
+Instructors in the classroom:
+1. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
+2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
+     
+*Courses that have been granted an exception to the Face Covering Policy for pedagogical reasons are excluded. Exceptions to the Face Covering Policy are only granted after an approved health safety plan is developed.
