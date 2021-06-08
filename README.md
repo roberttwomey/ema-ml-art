@@ -1,6 +1,6 @@
 # EMAR 349: Machine Learning for the Arts - Fall 2021
 
-[Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
+[Resources](#resources) | [Schedule](#schedule) | [Policies](#policies) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ![Image](ml_art2019.png)
 
@@ -367,8 +367,9 @@ https://classroom.github.com/g/lGEIfW-a
 - An extended project report (4 pages): see google doc link in repository
 -->
 
-# Grading
- 
+# Policies
+
+
 ## Graded activities
 - 20% Weekly Exercises – approximately 12 exercises 
 - 45% Projects – You will do three projects at 15% each*
@@ -397,10 +398,7 @@ __*Final Project, Documentation, and Presentation*__
 At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
 
 __*Participation*__
-We will have a number of avenues for course participation, graded on completion. These include regular course readings and responses, finding and sharing resources relevant to course topics on class discussion platforms, and providing peer feedback on classmates’ work.
-
-
-# Policies
+Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
 
 ## Attendance
 On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
@@ -413,10 +411,6 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
 - 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
-
-## Class Participation
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
-
 
 ## Late work policy
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
@@ -451,25 +445,6 @@ Academic dishonesty will not be tolerated in this course. Any instances will res
 
 We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
-
-<!--
-# Addenda
-
-## Enrollment Fall 2019
-If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
-
-## CMU Collaboration
-
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
-## Datahub Info
-
-We do our processing on datahub.ucsd.edu. Here is their instruction manual:
-- quick instructions [https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese)
-- detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
-- making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
--->
-
 ## Accommodations for Students with Disabilities
 Students with disabilities are encouraged to contact their instructor for a confidential discussion of their individual needs for academic accommodation based on a current accommodation plan. It is the policy of the University to provide flexible and individualized accommodations to students with documented disabilities including those students with mental health disabilities such as depression and anxiety. To receive reasonable accommodation, students must be registered with the Services for Students with Disabilities (SSD) office, 232 Canfield Administration, 402-472-3787 V/TTY.
 
@@ -499,3 +474,22 @@ Instructors in the classroom:
 2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
      
 *Courses that have been granted an exception to the Face Covering Policy for pedagogical reasons are excluded. Exceptions to the Face Covering Policy are only granted after an approved health safety plan is developed.
+
+
+<!--
+# Addenda
+
+## Enrollment Fall 2019
+If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
+
+## CMU Collaboration
+
+We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
+
+## Datahub Info
+
+We do our processing on datahub.ucsd.edu. Here is their instruction manual:
+- quick instructions [https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese)
+- detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
+- making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
+-->
