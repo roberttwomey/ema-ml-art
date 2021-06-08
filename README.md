@@ -1,6 +1,6 @@
 # EMAR 349: Machine Learning for the Arts - Fall 2021
 
-[Resources](#resources) | [Schedule](#schedule) | [Policies](#policies) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
+[Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities)
 
 ![Image](ml_art2019.png)
 
@@ -330,45 +330,9 @@ _Recognition:_
 - PROJECT DUE: 8am, Wednesday December 11. 
 - REPORT DUE: 11:59pm, Friday December 13 (add to your github repository as pdf)
 
-# Projects
-
-## Project 1: Generative Text
-
-[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](https://classroom.github.com/g/sJIzmAcR)
-
-## Project 2: Generative Audio
-
-[Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
-
-Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](https://classroom.github.com/g/ujfzX5Wp)
-
-## Project 3: Generative Visual
-
-[Generative Visual Assignment](https://docs.google.com/document/d/1RMeJF1oppSgedvhJGjB8CgGXlytR6KaXK8gMJTGJji0/export?format=pdf). Due 12/1/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
-
-## Final Project: Revisit One Project for Showcase
-
-Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
-
-PROJECT DUE 12/11, 8-11am. Location TBD.
-
-REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
-
-For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: [
-https://classroom.github.com/g/lGEIfW-a
-](
-https://classroom.github.com/g/lGEIfW-a
-)
-- An extended project report (4 pages): see google doc link in repository
 -->
 
-# Policies
-
+# Grading
 
 ## Graded activities
 - 20% Weekly Exercises – approximately 12 exercises 
@@ -445,6 +409,8 @@ Academic dishonesty will not be tolerated in this course. Any instances will res
 
 We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
+# Policies
+
 ## Accommodations for Students with Disabilities
 Students with disabilities are encouraged to contact their instructor for a confidential discussion of their individual needs for academic accommodation based on a current accommodation plan. It is the policy of the University to provide flexible and individualized accommodations to students with documented disabilities including those students with mental health disabilities such as depression and anxiety. To receive reasonable accommodation, students must be registered with the Services for Students with Disabilities (SSD) office, 232 Canfield Administration, 402-472-3787 V/TTY.
 
@@ -493,3 +459,41 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 - detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
 - making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
 -->
+
+<!-- # Projects
+
+## Project 1: Generative Text
+
+[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
+
+Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](https://classroom.github.com/g/sJIzmAcR)
+
+## Project 2: Generative Audio
+
+[Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
+
+Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](https://classroom.github.com/g/ujfzX5Wp)
+
+## Project 3: Generative Visual
+
+[Generative Visual Assignment](https://docs.google.com/document/d/1RMeJF1oppSgedvhJGjB8CgGXlytR6KaXK8gMJTGJji0/export?format=pdf). Due 12/1/2019, 11:59pm.
+
+Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
+
+## Final Project: Revisit One Project for Showcase
+
+Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
+
+PROJECT DUE 12/11, 8-11am. Location TBD.
+
+REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
+
+For the final project you will need to submit two things: 
+- Project repository as usual through github classroom: [
+https://classroom.github.com/g/lGEIfW-a
+](
+https://classroom.github.com/g/lGEIfW-a
+)
+- An extended project report (4 pages): see google doc link in repository
+-->
+
