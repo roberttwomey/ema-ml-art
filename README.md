@@ -1,4 +1,4 @@
-# EMAR 349: Machine Learning for the Arts - Fall 2021
+# EMAR 349: Machine Learning for the Arts - Spring 2022
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
@@ -16,7 +16,7 @@ This project-based course will be conducted primarily in python using free, open
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Class:** W 8:30-11:20am
+- **Class:** Date TBD
 - **Location:** CEMA 215
 - **Office Hours:** TBD, zoom and in person
 
