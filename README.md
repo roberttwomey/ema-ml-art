@@ -17,8 +17,9 @@ This project-based course will be conducted primarily in python using free, open
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 11:00-12:15pm
-- **Location:** CEMA 215
+- **Location:** CEMA 215. **NOTE: we will meet online (zoom) for the first two weeks.**
 - **Office Hours:** TBD, zoom and in person
+- **Zoom:** https://unl.zoom.us/j/94101425950
 
 ## Course objectives
 - Experiential Learning
