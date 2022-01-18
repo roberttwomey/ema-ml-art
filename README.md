@@ -6,12 +6,9 @@
 
 # Description
 
-This course explores the vital new domain of Machine Learning (ML) for the arts. Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches.
+As Machine Learning (ML) permeates multiple aspects of culture, industry, and scholarship, it is essential that the next generation of computational artists be ML-literate, with the capacity to critically evaluate and apply this evolving technology.  This course explores the vital new domain of Machine Learning as applied to the arts.  Born out of computer science research, ML techniques are reimagined through creative application to diverse generative art tasks. Through hands-on experience with state-of-the-art ML tools, students will develop their skills in this area and form critical perspectives on the strengths and limitations of current approaches. 
 
-As ML permeates multiple aspects of culture, industry, and scholarship, it is essential to train the next generation of ML-literate artists and engineers and equip them with critical tools to evaluate these new techniques. How do computational tools augment, complicate, or supersede human creative endeavor? What new approaches to creative production are possible with the advent of affordable graphics hardware and ML software?
-
-This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.
-
+This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects. 
 
 ## Details
 
@@ -56,21 +53,22 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
-| 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
-| 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
-| 3 | Text Generation II: Transformers, Fine-Tuning, Case Study: GPT-2 - Fine-tuning exercise - Due: Project 1 Proposal |
-| 4 | Chatbots, Interactive Text, Time Series in ML. - Interactive text exercise |
-| 5 | Time II: Autoencoders, Embeddings, Sketch-RNN - Due: Project 1 - Sketch-RNN exercise |
-| 6 | Intro to Generative Audio. - Generative Networks for Music MIDI RNN Exercise - Assign Project 2 |
-| 7 | Audio II: Music transformers. Speech generation. - Speech generation exercise - Due: Project 2 Proposal |
-| 8 | Audio III: Speech Recognition - Speech interaction exercise |
-| 9 | Visual Processing: CNNs. Style Transfer and Deep Dream - Style transfer/deep dream exercise - Due: Project 2 |
-| 10 | GANs: Generative Adversarial Networks - GAN exercise - Assign Project 3 |
-| 11 | Visual II: Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
-| 12 | Text and Image : Image Captioning, transformers and GANs - Text and image exercise (captioning, CLIP ,and DALL-E) - Due: Final Project Proposal |
-| 13 | ML and Video - Video processing exercise - Due: Project 3 |
-| 14 | Platforms and Applications of ML and the Arts - Final project work time |
-| 15 | Workshopping Final Presentations - Final project work time |
+| 1a | **Hello. Syllabus and Policies. Compute Setup** |
+| 1b | **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
+| 2 | **Text Generation I**<br> - Historical Approaches;<br> - RNNs, LSTMs, GRUs;<br> - text scraping and data cleaning;<br> - RNN exercise;<br> Assign Project 1 |
+| 3 | **Text Generation II**<br> - Transformers;<br> - Fine-Tuning;<br> - Exercise: GPT and fine-tuning;<br> - Due: Project 1 Proposal |
+| 4 | **Chatbots, Interactive Text**<br> - Time Series in ML<br> - Exercise: interactive text |
+| 5 | **Time II: Autoencoders, Embeddings, Sketch-RNN**<br> - Due: Project 1 - Sketch-RNN exercise |
+| 6 | **Audio I**<br> - Intro to Generative Audio<br> - Generative Networks for Music<br> - Exercise: MIDI RNN<br> - Assign Project 2 |
+| 7 | **Audio II**<br> - Music transformers<br> - Speech generation<br> - Exercise: speech generation<br> - Due: Project 2 Proposal |
+| 8 | **Audio III**<br> - Speech Recognition<br> -vocal cloning<br> - Exercise: speech interaction |
+| 9 | **Visual Processing**<br> - CNNs<br> - Style Transfer and Deep Dream<br> - Exercise: style transfer/deep dream<br> - Due: Project 2 |
+| 10 | **GANs**<br> - Generative Adversarial Networks<br> -Exercise: GAN<br> - Assign Project 3 |
+| 11 | **Visual II**<br> - Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
+| 12 | **Text and Image**<br> - Image Captioning, transformers and GANs<br> - Text to image translation (CLIP, DALL-E, guided diffusion)<br> - Exercise: text and image<br> - Due: Final Project Proposal |
+| 13 | **ML and Video**<br> - Video processing exercise<br> - Due: Project 3<br> - Exercise: Final project proposal |
+| 14 | **Platforms and Applications**<br> - infrastructure for ML and the Arts<br> - Final project work time |
+| 15 | **Workshopping Final Presentations**<br> - Final project work time |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
 
 <!--
@@ -338,7 +336,7 @@ _Recognition:_
 # Grading
 
 ## Graded activities
-- 20% Weekly Exercises – approximately 12 exercises 
+- 20% Weekly Exercises – approximately 10 exercises 
 - 45% Projects – You will do three projects at 15% each*
   * Code, Documentation, and Results must be submitted for credit.
 - 25% Final Project
