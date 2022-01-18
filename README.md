@@ -490,5 +490,11 @@ For the final project you will need to submit two things:
 - An extended project report (4 pages): see google doc link in repository
 -->
 
+# Addenda
+## CMU Collaboration
+
+We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
+
+
 # References
-- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)
+<!--- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)-->
