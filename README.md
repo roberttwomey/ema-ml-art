@@ -58,12 +58,12 @@ creative work employing ML and generative art techniques.
 | 2 | **Text Generation I**<br> - Historical Approaches;<br> - RNNs, LSTMs, GRUs;<br> - text scraping and data cleaning;<br> - RNN exercise;<br> Assign Project 1 |
 | 3 | **Text Generation II**<br> - Transformers;<br> - Fine-Tuning;<br> - Exercise: GPT and fine-tuning;<br> - Due: Project 1 Proposal |
 | 4 | **Chatbots, Interactive Text**<br> - Time Series in ML<br> - Exercise: interactive text |
-| 5 | **Time II: Autoencoders, Embeddings, Sketch-RNN**<br> - Due: Project 1 - Sketch-RNN exercise |
-| 6 | **Audio I**<br> - Intro to Generative Audio<br> - Generative Networks for Music<br> - Exercise: MIDI RNN<br> - Assign Project 2 |
-| 7 | **Audio II**<br> - Music transformers<br> - Speech generation<br> - Exercise: speech generation<br> - Due: Project 2 Proposal |
-| 8 | **Audio III**<br> - Speech Recognition<br> -vocal cloning<br> - Exercise: speech interaction |
-| 9 | **Visual Processing**<br> - CNNs<br> - Style Transfer and Deep Dream<br> - Exercise: style transfer/deep dream<br> - Due: Project 2 |
-| 10 | **GANs**<br> - Generative Adversarial Networks<br> -Exercise: GAN<br> - Assign Project 3 |
+| 5 | **Time II: Autoencoders, Embeddings, Sketch-RNN** <br>- Sketch-RNN exercise <br> - Due: Project 1 |
+| 6 | **Audio I**<br> - Intro to Generative Audio<br> - Generative Networks for Music<br> - Exercise: MIDI RNN|
+| 7 | **Audio II**<br> - Music transformers<br> - Speech generation<br> - Exercise: speech generation<br> - Assign Project 2 |
+| 8 | **Audio III**<br> - Speech Recognition<br> -vocal cloning<br> - Exercise: speech interaction <br> - Due: Project 2 Proposal |
+| 9 | **Visual Processing**<br> - CNNs<br> - Style Transfer and Deep Dream<br> - Exercise: style transfer/deep dream<br> |
+| 10 | **GANs**<br> - Generative Adversarial Networks<br> -Exercise: GAN<br> - Due: Project 2 <br> - Assign Project 3|
 | 11 | **Visual II**<br> - Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
 | 12 | **Text and Image**<br> - Image Captioning, transformers and GANs<br> - Text to image translation (CLIP, DALL-E, guided diffusion)<br> - Exercise: text and image<br> - Due: Final Project Proposal |
 | 13 | **ML and Video**<br> - Video processing exercise<br> - Due: Project 3<br> - Exercise: Final project proposal |
