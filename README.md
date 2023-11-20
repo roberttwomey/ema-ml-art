@@ -1,4 +1,4 @@
-# EMAR 349: Machine Learning for the Arts - Spring 2022
+# EMAR 349: Machine Learning for the Arts - Spring 2023
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
@@ -13,10 +13,9 @@ This project-based course will be conducted primarily in python using free, open
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Class:** Tu/Th 11:00-12:15pm
+- **Class:** Th 2:00-4:45pm
 - **Location:** CEMA 2nd floor conference room. 
-  - **NOTE: Class will be online (zoom) for the first two weeks.**
-- **Zoom:** https://unl.zoom.us/j/94101425950
+- **Zoom:** https://unl.zoom.us/my/twomey
 - - **Office:** CEMA 253 
 - **Office Hours:** Likely Wed, Zoom and in person.
 
@@ -39,11 +38,12 @@ creative work employing ML and generative art techniques.
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-art-creative-ai` channel on the Carson Center server [https://discord.com/channels/688079641738608705/824358570161733643](https://discord.com/channels/688079641738608705/824358570161733643).
+- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-art-creative-ai` channel on the Carson Center server:
+  - [TK]  
   - the server invite is posted on canvas.
-- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
+- **Canvas:** this is where you will submit assignments, and where I will handle grading: TK
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Zoom:** [https://unl.zoom.us/j/94101425950](https://unl.zoom.us/j/94101425950)
+- **Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
   - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
 <!--- **Github Classroom:** this is where you will submit your code: [link to come]()-->
 
