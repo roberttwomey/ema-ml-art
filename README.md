@@ -1,4 +1,4 @@
-# EMAR 349: Machine Learning for the Arts - Spring 2023
+# EMAR 349: Machine Learning for the Arts - Spring 2024
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
