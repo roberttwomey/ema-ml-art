@@ -39,7 +39,7 @@ creative work employing ML and generative art techniques.
 
 # Resources
 - **Syllabus + Website:** [ml.roberttwomey.com](https://ml.roberttwomey.com)
-- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
+- **Code:** [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
 - **Discord Channel:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-for-art-sp2024` channel on the Carson Center server:
   - [https://discord.com/channels/688079641738608705/1181082635867541585](https://discord.com/channels/688079641738608705/1181082635867541585)
 - **Class Zoom:** [https://unl.zoom.us/j/94101425950](https://unl.zoom.us/j/94101425950)
