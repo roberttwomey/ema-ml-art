@@ -409,7 +409,7 @@ We will use many open source projects to make our work. It is ok to use others' 
 
 # Policies
 
-__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page (https://go.unl.edu/coursepolicies):
+__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page ([https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies)):
 - University-wide Attendance Policy
 - Academic Honesty Policy
 - Services for Students with Disabilities
