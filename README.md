@@ -1,6 +1,6 @@
 # EMAR 349: Machine Learning for the Arts - Spring 2024
 
-[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 ![Image](ml_art2019.png)
 
