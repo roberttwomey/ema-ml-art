@@ -488,7 +488,7 @@ For the final project you will need to submit two things:
 # Addenda
 ## CMU Collaboration
 
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
+We may have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
 
 
 # References
