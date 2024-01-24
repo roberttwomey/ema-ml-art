@@ -53,7 +53,7 @@ creative work employing ML and generative art techniques.
 
 | Week | Topic |
 |------|-------|
-| 1 | **Hello. Syllabus and Policies. Compute Setup <br> **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
+| 1 | **Hello. Syllabus and Policies. Compute Setup** <br> **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
 | 2 | **Text Generation I**<br> - Historical Approaches;<br> - RNNs, LSTMs, GRUs;<br> - text scraping and data cleaning;<br> - RNN exercise;<br> Assign Project 1 |
 | 3 | **Text Generation II**<br> - Transformers;<br> - Fine-Tuning;<br> - Exercise: GPT and fine-tuning;<br> - Due: Project 1 Proposal |
 | 4 | **Chatbots, Interactive Text**<br> - Time Series in ML<br> - Exercise: interactive text |
