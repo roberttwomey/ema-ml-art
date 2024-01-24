@@ -11,13 +11,13 @@ As Artificial Intelligence and Machine Learning transform all aspects of culture
 This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows and jupyter notebooks. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), Diffusion, Transformer Models, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.
 
 ## Details
-- **Instructor:** Robert Twomey
-- **Class:** Th 2:00-4:45pm
+- **Time:** Th 2:00-4:45pm
 - **Location:** CEMA 205
-- **My Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
-- **Office Hours:** Wednesday, 3-4pm on zoom or by appointment
+- **Instructor:** Robert Twomey
+  - **My Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
+  - **Office Hours:** Wednesday, 3-4pm on zoom or by appointment
 - **Teaching Assistant:** Reid Brockmeier
-- **Office Hours:** 2 hours TBD.
+  - **Office Hours:** 2 hours TBD.
 
 ## Course objectives
 - Experiential Learning
