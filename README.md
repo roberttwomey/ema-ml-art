@@ -16,8 +16,6 @@ This project-based course will be conducted primarily in python using free, open
 - **Location:** CEMA 205
 - **My Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
 - **Office Hours:** Wednesday, 3-4pm on zoom or by appointment
-
-
 - **Teaching Assistant:** Reid Brockmeier
 - **Office Hours:** 2 hours TBD.
 
