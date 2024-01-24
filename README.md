@@ -14,10 +14,12 @@ This project-based course will be conducted primarily in python using free, open
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Th 2:00-4:45pm
-- **Location:** CEMA 2nd floor conference room. 
-- **Zoom:** https://unl.zoom.us/my/twomey
-- - **Office:** CEMA 253 
-- **Office Hours:** Likely Wed, Zoom and in person.
+- **Location:** CEMA 205
+- **My Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
+- **Office Hours:** Wednesday, 3-4pm on zoom or by appointment
+
+- **TA:** Reid Brockmeier
+- **Office Hours:** 2 hours TBD.
 
 ## Course objectives
 - Experiential Learning
@@ -38,23 +40,20 @@ creative work employing ML and generative art techniques.
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-art-creative-ai` channel on the Carson Center server:
-  - [TK]  
-  - the server invite is posted on canvas.
-- **Canvas:** this is where you will submit assignments, and where I will handle grading: TK
+- **Syllabus + Website:** [ml.roberttwomey.com](https://ml.roberttwomey.com)
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Zoom:** [https://unl.zoom.us/my/twomey](https://unl.zoom.us/my/twomey)
-  - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
+- **Discord Channel:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-for-art-sp2024` channel on the Carson Center server:
+  - [https://discord.com/channels/688079641738608705/1181082635867541585](https://discord.com/channels/688079641738608705/1181082635867541585)
+- **Class Zoom:** [https://unl.zoom.us/j/94101425950](https://unl.zoom.us/j/94101425950)
+- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/167819/](https://canvas.unl.edu/courses/167819/)
 <!--- **Github Classroom:** this is where you will submit your code: [link to come]()-->
-
 
 # Schedule
 (Subject to Change-Always check back for most up to date information)
 
 | Week | Topic |
 |------|-------|
-| 1a | **Hello. Syllabus and Policies. Compute Setup** |
-| 1b | **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
+| 1 | **Hello. Syllabus and Policies. Compute Setup <br> **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
 | 2 | **Text Generation I**<br> - Historical Approaches;<br> - RNNs, LSTMs, GRUs;<br> - text scraping and data cleaning;<br> - RNN exercise;<br> Assign Project 1 |
 | 3 | **Text Generation II**<br> - Transformers;<br> - Fine-Tuning;<br> - Exercise: GPT and fine-tuning;<br> - Due: Project 1 Proposal |
 | 4 | **Chatbots, Interactive Text**<br> - Time Series in ML<br> - Exercise: interactive text |
