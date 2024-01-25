@@ -329,21 +329,23 @@ _Recognition:_
 
 -->
 
-# Grading
+# Course Grading Policy
 
 ## Graded activities
-- 20% Weekly Exercises – approximately 10 exercises 
+- 20% Weekly Exercises – approximately 10 exercises
+  * Code notebooks.
+  * Small assignments/tasks as they arise, graded on completion.
+  * Readings.
 - 45% Projects – You will do three projects at 15% each*
   * Code, Documentation, and Results must be submitted for credit.
+  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 - 25% Final Project
   * Code
   * Documentation
   * Presentation
 - 10% Participation
+  * Peer review and critique.
   * Finding and sharing resources on our course discussion. 
-  * Small assignments/tasks as they arise, graded on completion.
-  * Readings.
-  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 
 *Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
 
@@ -359,7 +361,7 @@ __*Final Project, Documentation, and Presentation*__
 At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
 
 __*Participation*__
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
+Contributions to class discussions and active participation in critiques and workshops are essential to the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading or exercises), and ready to participate in class activities. Bring finished work for in-class crtiqiues. See the participation evaluation in the Grading Scale below for more information.
 
 ## Attendance
 On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
@@ -377,48 +379,35 @@ class will result in the reduction of the final grade by a full letter grade (i.
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
-A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
-B+ = 87-90 | B = 83-87 | B- = 80-83 <br>
-C+ = 77-80 | C = 73-77 | C- = 70-73 <br>
-D+ = 67-70 | D = 63-67 | D- = 60-63 <br>
+A+ = 96.67-100 | A = 93.33-96.67 | A- = 90-93.33 <br>
+B+ = 86.66-90 | B = 83.33-86.67 | B- = 80-83.33 <br>
+C+ = 76.67-80 | C = 73.33-76.67 | C- = 70-73.33 <br>
+D+ = 66.67-70 | D = 63.33-66.67 | D- = 60-63.33 <br>
 F = below 60%<br>
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
 
-A – Excellent<br>
-Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
+A – Excellent 
+
+Excellent participation is marked by near-perfect attendance and rigorous preparation for class work. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit assignments on time, adhering to posted requirements, and demonstrate a thorough engagement with the assignment. You respond creatively to any feedback you receive (from both your peers and instructor). You are an active contributor to classroom community. 
 
 B – Good<br>
-Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
+Good participation is marked by near-perfect attendance and thorough preparation for class. You respond to questions with specificity and make active contributions to class. You submit assignments on time, and demonstrate a thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor). You are a regular and reliable contributor to classroom community. 
 
 C – Satisfactory<br>
-Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
+Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present in class, with few absences, and have done some of the work some of the time. You submit assignments and make some efforts toward revision proposals and final submission. You are involved in classroom activities, but you offer minimal feedback and you may not always contribute fully to classroom community.
 
 D – Unsatisfactory<br>
-Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
+Unsatisfactory participation is marked by multiple absences from class and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work. You are absent for classroom activities, or do not work cooperatively in collaborative environments. 
 
 F—Failing<br>
-Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
-
-## Academic Honesty Policy
-
-Academic dishonesty will not be tolerated in this course. Any instances will result in an automatic grade of F in the course and possible disciplinary action under the Student Code of Conduct (https://studentconduct.unl.edu/student-code-conduct). For information on the University’s policy on academic dishonesty, please refer to the current Undergraduate Bulletin (https://registrar.unl.edu/academic-honesty).
-
-We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
+Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in classroom activities and development processes.
 
 # Policies
 
-__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page ([https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies)):
-- University-wide Attendance Policy
-- Academic Honesty Policy
-- Services for Students with Disabilities
-- Mental Health and Well-Being Resources
-- Final Exam Schedule
-- Fifteenth Week Policy
-- Emergency Procedures
-- Diversity & Inclusiveness
-- Title IX Policy
-- Other Relevant University-Wide Policies
+Course-specific policies and rules.
+
+[Attendance](#attendance) | [Late Work](#late-work) | [Other People's Code](#other-peoples-code) | [UNL Course Policies and Resources](#unl-course-policies-and-resources)
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
@@ -432,63 +421,30 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
+## Late Work
+An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, work in progress, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one 5% for each day or part of a day past due (A to B, etc.). Assignments are due in class and via online submission, as specified in assignment descriptions. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
-<!--
-# Addenda
+## Other People's Code
+We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
-## Enrollment Fall 2019
-If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
+## UNL Course Policies and Resources
 
-## CMU Collaboration
-
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
-## Datahub Info
-
-We do our processing on datahub.ucsd.edu. Here is their instruction manual:
-- quick instructions [https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese)
-- detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
-- making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
--->
-
-<!-- # Projects
-
-## Project 1: Generative Text
-
-[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](https://classroom.github.com/g/sJIzmAcR)
-
-## Project 2: Generative Audio
-
-[Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
-
-Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](https://classroom.github.com/g/ujfzX5Wp)
-
-## Project 3: Generative Visual
-
-[Generative Visual Assignment](https://docs.google.com/document/d/1RMeJF1oppSgedvhJGjB8CgGXlytR6KaXK8gMJTGJji0/export?format=pdf). Due 12/1/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
-
-## Final Project: Revisit One Project for Showcase
-
-Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
-
-PROJECT DUE 12/11, 8-11am. Location TBD.
-
-REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
-
-For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: [https://classroom.github.com/g/lGEIfW-a](https://classroom.github.com/g/lGEIfW-a)
-- An extended project report (4 pages): see google doc link in repository
--->
+Students are responsible for knowing the university policies and resources found on this page ([https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies)):
+- University-wide Attendance Policy
+- Academic Honesty Policy
+- Services for Students with Disabilities
+- Mental Health and Well-Being Resources
+- Final Exam Schedule
+- Fifteenth Week Policy
+- Emergency Procedures
+- Diversity & Inclusiveness
+- Title IX Policy
+- Other Relevant University-Wide Policies
 
 # Addenda
 ## CMU Collaboration
 
 We may have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
 
 # References
 <!--- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)-->
