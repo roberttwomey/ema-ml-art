@@ -332,14 +332,14 @@ _Recognition:_
 # Course Grading Policy
 
 ## Graded activities
-- 20% Weekly Exercises – approximately 10 exercises
+- 25% Weekly Exercises – approximately 10 exercises
   * Code notebooks.
   * Small assignments/tasks as they arise, graded on completion.
   * Readings.
 - 45% Projects – You will do three projects at 15% each*
   * Code, Documentation, and Results must be submitted for credit.
   * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
-- 25% Final Project
+- 20% Final Project
   * Code
   * Documentation
   * Presentation
