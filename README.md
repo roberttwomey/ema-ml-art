@@ -1,6 +1,6 @@
 # EMAR 349: Machine Learning for the Arts - Spring 2024
 
-[Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Description](#description) | [Schedule](#course-schedule) | [Resources](#resources) | [Grading](#course-grading-policy) | [Policies](#policies) | [References](#references)
 
 ![Image](ml_art2019.png)
 
@@ -40,9 +40,9 @@ creative work employing ML and generative art techniques.
 # Resources
 - **Syllabus + Website:** [ml.roberttwomey.com](https://ml.roberttwomey.com)
 - **Code:** [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Discord Channel:** There is a `#ml-for-art-sp2024` channel on the Carson Center server, see Canvas for details.
-- **Class Zoom:** See canvas for details.
-- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/167819/](https://canvas.unl.edu/courses/167819/)
+- **Discord Channel:** There is a `#ml-for-art-sp2024` channel on the Carson Center server [https://discord.com/channels/688079641738608705/1181082635867541585](https://discord.com/channels/688079641738608705/1181082635867541585)
+- **Class Zoom:**  [https://unl.zoom.us/j/94101425950](https://unl.zoom.us/j/94101425950)
+- **Canvas:** [https://canvas.unl.edu/courses/167819/](https://canvas.unl.edu/courses/167819/)
 <!--- **Github Classroom:** this is where you will submit your code: [link to come]()-->
 
 # Schedule
