@@ -45,7 +45,7 @@ creative work employing ML and generative art techniques.
 - **Canvas:** [https://canvas.unl.edu/courses/167819/](https://canvas.unl.edu/courses/167819/)
 <!--- **Github Classroom:** this is where you will submit your code: [link to come]()-->
 
-# Schedule
+# Course Schedule
 (Subject to Change-Always check back for most up to date information)
 
 | Week | Topic |
